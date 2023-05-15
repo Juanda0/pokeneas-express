@@ -1,17 +1,13 @@
 const express = require('express')
-
 const app = express()
-
 const port = 3000
 
-app.get('/', (req, res) => {
+const fs = require('fs')
+const os = require('os')
+const api = require('./routes/api')
 
-res.sendFile(__dirname + '/pokeview.html')
-
-})
+app.use('/api', api)
 
 app.listen(port, () => {
-
-console.log(`Example app listening on port ${port}`)
-
+  console.log(`Example app listening on port ${port}`)
 })

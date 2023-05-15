@@ -1,4 +1,4 @@
-[
+const pokeneas = [
     {
       "id": 1,
       "nombre": "Guarachagar",
@@ -49,4 +49,7 @@
       "frase": "La vaina es que la naturaleza me educa, cada hoja y cada vaina verde tiene su propio cuento, hermano."
     }
   ]
-  
+
+module.exports = {
+  data:pokeneas
+}
