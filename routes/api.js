@@ -1,15 +1,9 @@
-const pokeneas = require('../pokeneas')
 const express = require('express')
-const os = require('os')
+const controller = require('../controller/pokeController')
 const router = express.Router()
 
 router.get('/', function(req, res) {
-    const number = Math.floor(Math.random() * 7)
-    console.log(pokeneas.data)
-    let response = { ...pokeneas.data[number] }
-    response['id_contenedor'] = os.hostname()
-    delete response['frase']
-    res.send(response)
+    controller.api(res)
 })
 
 module.exports = router;
