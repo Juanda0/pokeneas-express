@@ -46,7 +46,7 @@ const pokeneas = [
       "nombre": "Chamosaur",
       "altura": 0.7,
       "habilidad": "Espesura brava",
-      "frase": "La vaina es que la naturaleza me educa, cada hoja y cada vaina verde tiene su propio cuento, hermano."
+      "frase": "La vaina es que la naturaleza me educa, cada hoja y cada vaina verde tiene su propio cuento, chamo."
     }
   ]
 
