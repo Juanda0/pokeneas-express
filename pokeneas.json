@@ -1,0 +1,52 @@
+[
+    {
+      "guarachagar": {
+        "altura": "1.5 metros",
+        "habilidad": "Levitación",
+        "frase": "En la oscuridad de la noche, las sombras revelan la vaina verdadera de las cosas, parce."
+      }
+    },
+    {
+      "pikaplones": {
+        "altura": "0.4 metros",
+        "habilidad": "Electricidad estática",
+        "frase": "El relámpago que saco de adentro se vuelve más cabrón cuando lo comparto con la raza, hermano."
+      }
+    },
+    {
+      "drogoffing": {
+        "altura": "0.6 metros",
+        "habilidad": "Levitación",
+        "frase": "El guayabo que exhalo es una lección que muestra lo jodido que es el balance en esta vuelta, mano."
+      }
+    },
+    {
+      "cuchone": {
+        "altura": "0.4 metros",
+        "habilidad": "Cabeza rocosa",
+        "frase": "El dolor y la pérdida me marcaron el alma, pero el amor puede ser el parche que sana hasta las heridas más hijueputas, parce."
+      }
+    },
+    {
+      "nacionander": {
+        "altura": "0.6 metros",
+        "habilidad": "Mar llamas",
+        "frase": "El fuego arde dentro de mí, una llama que ilumina mi camino y me hace sentir más cabrón que el resto, mano."
+      }
+    },
+    {
+      "fresapuff": {
+        "altura": "0.5 metros",
+        "habilidad": "Voz melodiosa",
+        "frase": "Cada nota que canto lleva consigo el poder de calmar corazones y traer armonía a la calle, parcero."
+      }
+    },
+    {
+      "chamosaur": {
+        "altura": "0.7 metros",
+        "habilidad": "Espesura",
+        "frase": "La vaina es que la naturaleza me educa, cada hoja y cada vaina verde tiene su propio cuento, hermano."
+      }
+    }
+  ]
+  
